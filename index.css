@@ -1,0 +1,28 @@
+.headline {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border-bottom-style: solid;
+
+}
+
+
+
+h3 {
+  padding: 10px;
+  font-style: italic;
+  text-align: center;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+p {
+  padding-right: 5px;
+}
+
+span {
+  text-transform: uppercase;
+  font-style: italic;
+}
